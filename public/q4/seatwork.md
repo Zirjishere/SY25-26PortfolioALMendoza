@@ -1,4 +1,4 @@
-# Seatwork #2 - Getting to know CSS Position and z-index.
+# Seatwork #2 - Getting to know CSS Position and z-index. 
 ### This seatwork will ask you to implement the different CSS position on a given code.
 ### short link to this .md file is: https://bit.ly/4c61P9K
 #### Resources (also found in Khub week 5)
